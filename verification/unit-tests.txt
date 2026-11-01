@@ -1,0 +1,19 @@
+test_all_timeout (test_core.Rules.test_all_timeout) ... ok
+test_lowest (test_core.Rules.test_lowest) ... ok
+test_reject_uncertain (test_core.Rules.test_reject_uncertain) ... ok
+test_schedule_and_immediate_retry (test_core.Rules.test_schedule_and_immediate_retry) ... ok
+test_tie_keeps_current (test_core.Rules.test_tie_keeps_current) ... ok
+test_closed_window_is_skipped (test_runner.WorkerTests.test_closed_window_is_skipped) ... ok
+test_error_does_not_immediately_retry (test_runner.WorkerTests.test_error_does_not_immediately_retry) ... ok
+test_missing_node_does_not_trigger_timeout_retry (test_runner.WorkerTests.test_missing_node_does_not_trigger_timeout_retry) ... ok
+test_repeated_timeouts_then_success (test_runner.WorkerTests.test_repeated_timeouts_then_success) ... ok
+test_selection_confirmation_failure_does_not_click_again (test_runner.WorkerTests.test_selection_confirmation_failure_does_not_click_again) ... ok
+test_stop_while_waiting (test_runner.WorkerTests.test_stop_while_waiting) ... ok
+test_move_and_foreground_change_prevent_input (test_windows.ClickGuards.test_move_and_foreground_change_prevent_input) ... ok
+test_obstruction_prevents_input (test_windows.ClickGuards.test_obstruction_prevents_input) ... ok
+test_stop_prevents_input (test_windows.ClickGuards.test_stop_prevents_input) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.007s
+
+OK

@@ -1,0 +1,53 @@
+1 cards 8 complete True button (338, 203) best None
+  新加坡-IEPL01  False False
+  新加坡-IEPL 02  False False
+  新加坡-进阶IEPL01  False False
+  新加坡-进阶IEPL 02  False False
+  新加坡-进阶IEPL03  False False
+  新加坡-直连  True False
+  新加坡-中转01  False False
+  新加坡-中转02  False False
+2 cards 8 complete True button (338, 203) best None
+  新加坡-IEPL 01  False False
+  新加坡-IEPL 02  False False
+  新加坡-进阶IEPL01  False False
+  新加坡-进阶IEPL02  False False
+  新加坡-进阶IEPL03 Check False True
+  新加坡-直连  True False
+  新加坡-中转01  False False
+  新加坡-中转02  False False
+3 cards 8 complete True button (338, 203) best ('新加坡-直连', '232')
+  新加坡-IEPL01 Timeout False True
+  新加坡-IEPL02 Timeout False True
+  新加坡-进阶IEPL01 Timeout False True
+  新加坡-进阶IEPL02 Timeout False True
+  新加坡-进阶IEPL03 Timeout False True
+  新加坡-直连 232 True True
+  新加坡-中转01 646 False True
+  新加坡-中转02 233 False True
+4 cards 8 complete True button (338, 203) best ('新加坡-直连', '232')
+  [新加坡-IEPL 01 Timeout False True
+  新加坡-进阶IEPL 02 Timeout False True
+  新加坡-进阶IEPL 01 Timeout False True
+  新加坡-IEPL02 Check False True
+  新加坡-进阶IEPL03 Timeout False True
+  新加坡-直连 232 True True
+  新加坡-中转01 646 False True
+  新加坡-中转02 233 False True
+5 cards 8 complete True button (338, 203) best ('新加坡-直连', '232')
+  新加坡-IEPL 01 Timeout False True
+  新加坡-IEPL02 Timeout False True
+  新加坡-进阶IEPL01 Timeout False True
+  新加坡-进阶IEPL02 Timeout False True
+  新加坡-进阶IEPL03 Timeout False True
+  新加坡-直连 232 True True
+  新加坡-中转01 646 False True
+  新加坡-中转02 233 False True
+scale 0.75 cards 8 button (253, 152) best Candidate(name='新加坡-直连', status='232', rect=(514, 597, 302, 52), selected=np.True_, reliable=True)
+scale 1.25 cards 8 button (423, 253) best Candidate(name='新加坡-直连', status='232', rect=(855, 996, 506, 86), selected=np.True_, reliable=True)
+scale 1.5 cards 8 button (508, 304) best Candidate(name='新加坡-直连', status='232', rect=(1027, 1195, 606, 103), selected=np.True_, reliable=True)
+columns 2 passed
+columns 4 passed
+timeout fixture False complete True [('Timeout', True), ('Timeout', True), ('Timeout', True), ('Timeout', True), ('Timeout', True), ('Timeout', True), ('Timeout', True), ('Timeout', True)]
+timeout fixture True complete True [('Error', True), ('Timeout', True), ('Timeout', True), ('Timeout', True), ('Timeout', True), ('Timeout', True), ('Timeout', True), ('Timeout', True)]
+ALL SCREENSHOT CHECKS PASSED

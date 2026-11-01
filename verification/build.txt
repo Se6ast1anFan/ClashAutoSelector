@@ -1,0 +1,32 @@
+641 INFO: PyInstaller: 6.22.3, contrib hooks: 2026.9
+642 INFO: Python: 3.13.3
+661 INFO: Platform: Windows-11-10.0.22631-SP0
+661 INFO: Python environment: C:\Users\fanmi\Desktop\clash�Զ�ѡ����\.venv
+663 INFO: wrote C:\Users\fanmi\Desktop\clash�Զ�ѡ����\ClashAutoSelector.spec
+9081 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\fanmi\\Desktop\\clash�Զ�ѡ����',
+ 'C:\\Users\\fanmi\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip',
+ 'C:\\Users\\fanmi\\AppData\\Local\\Programs\\Python\\Python313\\DLLs',
+ 'C:\\Users\\fanmi\\AppData\\Local\\Programs\\Python\\Python313\\Lib',
+ 'C:\\Users\\fanmi\\AppData\\Local\\Programs\\Python\\Python313',
+ 'C:\\Users\\fanmi\\Desktop\\clash�Զ�ѡ����\\.venv',
+ 'C:\\Users\\fanmi\\Desktop\\clash�Զ�ѡ����\\.venv\\Lib\\site-packages',
+ 'C:\\Users\\fanmi\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages',
+ 'C:\\Users\\fanmi\\Desktop\\clash�Զ�ѡ����']
+10720 INFO: Appending 'binaries' from .spec
+10721 INFO: Appending 'datas' from .spec
+10736 INFO: checking Analysis
+11919 INFO: checking PYZ
+12386 INFO: checking PKG
+13055 INFO: Bootloader C:\Users\fanmi\Desktop\clash�Զ�ѡ����\.venv\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+13055 INFO: checking EXE
+13075 INFO: Building because toc changed
+13075 INFO: Building EXE from EXE-00.toc
+13085 INFO: Copying bootloader EXE to C:\Users\fanmi\Desktop\clash�Զ�ѡ����\dist\ClashAutoSelector.exe
+13152 INFO: Copying icon to EXE
+13211 INFO: Copying 0 resources to EXE
+13211 INFO: Embedding manifest in EXE
+13269 INFO: Appending PKG archive to EXE
+13379 INFO: Fixing EXE headers
+14022 INFO: Building EXE from EXE-00.toc completed successfully.
+14049 INFO: Build complete! The results are available in: C:\Users\fanmi\Desktop\clash�Զ�ѡ����\dist
